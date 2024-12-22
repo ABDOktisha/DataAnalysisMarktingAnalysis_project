@@ -8,4 +8,4 @@ SELECT
         ELSE 'High'
     END AS PriceCategory  
 FROM 
-    dbo.products 
+    dbo.products; 
