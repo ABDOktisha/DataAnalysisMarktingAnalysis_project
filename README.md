@@ -25,15 +25,15 @@ This project focuses on analyzing marketing data to extract valuable insights ab
 ## Repository Structure
 
 ```plaintext
-├── cleandata_SQL/
-│   ├── clean_data_script.sql      # SQL script for cleaning datasets
-│   └── sample_queries.sql         # Example queries for EDA
-├── dataset/
-│   ├── raw_data.csv               # Raw marketing data
-│   ├── cleaned_data.csv           # Processed dataset
-│   └── data_dictionary.xlsx       # Metadata about dataset fields
-├── project_pictures/
-│   ├── dashboard_overview.png     # Snapshot of Power BI dashboard
-│   └── campaign_performance.png   # Campaign performance graph
-├── PROJECT.pbix                   # Power BI report file
-└── README.md                      # Documentation file
+cleandata_SQL/
+   clean_data_script.sql      # SQL script for cleaning datasets
+   sample_queries.sql         # Example queries for EDA
+dataset/
+    raw_data.csv               # Raw marketing data
+    cleaned_data.csv           # Processed dataset
+    data_dictionary.xlsx       # Metadata about dataset fields
+project_pictures/
+    dashboard_overview.png     # Snapshot of Power BI dashboard
+    campaign_performance.png   # Campaign performance graph
+PROJECT.pbix                   # Power BI report file
+README.md                      # Documentation file
